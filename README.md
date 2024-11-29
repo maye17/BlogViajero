@@ -14,7 +14,7 @@ Este proyecto está diseñado con **Bootstrap** y **JavaScript** para proporcion
 
 ## 🛠️ Tecnologías Usadas  
 
-- **Bootstrap 5.1.3**: Para la estructura y el diseño responsivo.  
+- **Bootstrap 5.2.3**: Para la estructura y el diseño responsivo.  
 - **JavaScript**: Para funcionalidades dinámicas como redirecciones y eventos interactivos.  
 - **HTML5** y **CSS3**: Para la creación de la estructura y estilo básicos del blog.  
 
@@ -33,4 +33,4 @@ Blog-Viajero/
 │   │   └── main.js       # Lógica principal
 │   └── images/           # Imágenes de los viajes
 ├── README.md             # Documentación del proyecto
-└── ...                   # Otros archivos
+
